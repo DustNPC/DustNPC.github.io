@@ -1,0 +1,21 @@
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+	padding-right: 14px;
+}
+
+.mt_50 {
+	margin-top: 50px;
+}
+
+#service_content {
+	max-width: 960px;
+}
+
+.project_content {
+	background: #333;
+
+}
+
+.project_content:hover {
+	background: #222;
+	color: #fff;
+}
